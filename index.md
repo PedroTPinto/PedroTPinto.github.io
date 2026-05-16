@@ -30,23 +30,13 @@ Work in Progress
 Work in Progress
 
 ### Publications
-<div style="display: flex; margin-bottom: 22px; line-height: 1.5;">
-  <div style="width: 25px; min-width: 25px; font-weight: normal; color: #333;">2.</div>
-  <div>
-    <strong>Optimizing Offshore AC and DC Power Systems for Floating Marine Exploration Platforms</strong> (<a href="https://doi.org/10.1109/ICRERA66237.2025.11284007" target="_blank">IEEE Xplore</a>)
-    <div style="margin-top: 4px; color: #333;">J. Baptista, A. Cerveira, I. Ferreira, B. Grasel, P. Pinto</div>
-    <div style="margin-top: 2px; color: #555;"><em>14th International Conference on Renewable Energy Research and Applications (ICRERA)</em> <strong>ICRERA 2025</strong>, Vienna, Austria, pp. 258-263</div>
-  </div>
-</div>
+2. **Optimizing Offshore AC and DC Power Systems for Floating Marine Exploration Platforms** ([IEEE Xplore](https://doi.org/10.1109/ICRERA66237.2025.11284007))  
+    J. Baptista, A. Cerveira, I. Ferreira, B. Grasel, P. Pinto  
+    *14th International Conference on Renewable Energy Research and Applications (ICRERA)* **ICRERA 2025**, Vienna, Austria, pp. 258-263
 
-<div style="display: flex; margin-bottom: 22px; line-height: 1.5;">
-  <div style="width: 25px; min-width: 25px; font-weight: normal; color: #333;">1.</div>
-  <div>
-    <strong>Empowering Engineers with Communication Skills for Green Technology Projects</strong> (<a href="https://doi.org/10.1109/CISPEE64787.2025.11123940" target="_blank">IEEE Xplore</a>)
-    <div style="margin-top: 4px; color: #333;">J. Baptista, M. Loureiro, P. Pinto, A. Briga-Sá</div>
-    <div style="margin-top: 2px; color: #555;"><em>2025 6th International Conference of the Portuguese Society for Engineering Education (CISPEE)</em> <strong>CISPEE 2025</strong>, Setúbal, Portugal, pp. 1-6</div>
-  </div>
-</div>
+1. **Empowering Engineers with Communication Skills for Green Technology Projects** ([IEEE Xplore](https://doi.org/10.1109/CISPEE64787.2025.11123940))  
+    J. Baptista, M. Loureiro, P. Pinto, A. Briga-Sá  
+    *2025 6th International Conference of the Portuguese Society for Engineering Education (CISPEE)* **CISPEE 2025**, Setúbal, Portugal, pp. 1-6
 ---
 
 ### Contacto
