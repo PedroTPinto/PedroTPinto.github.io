@@ -8,9 +8,9 @@ author_profile: true
 Work in Progress
 
 ### Competências
-## Work in Progress
-# Work in Progress
+
 * Work in Progress
+
 Work in Progress
 
 ### Contacto
