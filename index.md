@@ -4,6 +4,22 @@ title: "Bem-vindo"
 author_profile: true
 ---
 
+<style>
+  /* Reduces font size for the whole main content area */
+  .page__content {
+    font-size: 0.85rem !important; /* Default is usually 1rem or 1.1rem */
+  }
+  
+  /* Makes the main content column wider by overriding default max-width limits */
+  @media (min-width: 64em) {
+    .archive, .page {
+      padding-right: 20px !important; /* Reduces large right-side padding */
+      width: calc(100% - 300px) !important; /* Pulls content into the empty space */
+      max-width: 1200px !important;
+    }
+  }
+</style>
+
 ### Sobre Mim
 Work in Progress
 
