@@ -72,7 +72,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
     - label: "Curriculum Vitae"
-      url: "/assets/pdfs/cv.pdf"
+      url: "/assets/cv.pdf"
 
 footer:
   links:
