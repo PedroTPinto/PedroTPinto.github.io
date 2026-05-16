@@ -53,3 +53,9 @@ defaults:
     values:
       layout: single
       author_profile: true # Keeps your bio sidebar visible on the home page
+
+ui-text:
+  en: &DEFAULT_EN
+    feed_label: " "
+  en-US:
+    <<: *DEFAULT_EN
