@@ -83,7 +83,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
     - label: "Curriculum Vitae"
-      url: "/assets/pdfs/cv.pdf"
+      url: "/assets/cv.pdf"
 
 defaults:
   # _posts
