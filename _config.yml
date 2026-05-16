@@ -1,6 +1,6 @@
 # Welcome to Jekyll!
 title: Pedro Pinto
-email: your-email@example.com
+email: pedrotpinto@proton.me
 description: "Engenheiro Electrotécnico - Personal Portfolio"
 minimal_mistakes_skin: default # Try 'dark', 'contrast', or 'air' if you want to experiment
 search: false # Disabled since there is only one page to search
@@ -26,9 +26,9 @@ author:
   avatar : "/assets/images/1710070097629.jpeg"
   bio    : "Engenheiro Electrotécnico"
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/your_username"
+    #- label: "GitHub"
+      #icon: "fab fa-fw fa-github"
+      #url: "https://github.com/your_username"
     - label: "Curriculum Vitae"
       icon: "fas fa-fw fa-file-pdf"
       url: "/assets/cv.pdf"
@@ -39,9 +39,9 @@ author:
 # Footer Links
 footer:
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/your_username"
+    #- label: "GitHub"
+      #icon: "fab fa-fw fa-github"
+      #url: "https://github.com/your_username"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin" # This adds the LinkedIn icon
       url: "https://www.linkedin.com/in/pedrotpinto" # Put your link here
