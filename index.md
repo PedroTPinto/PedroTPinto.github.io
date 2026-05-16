@@ -31,6 +31,10 @@ Work in Progress
 
 ### Publications
 
+2. **Optimizing Offshore AC and DC Power Systems for Floating Marine Exploration Platforms** ([IEEE Xplore](https://doi.org/10.1109/ICRERA66237.2025.11284007))  
+   J. Baptista, A. Cerveira, I. Ferreira, B. Grasel, P. Pinto  
+   *14th International Conference on Renewable Energy Research and Applications (ICRERA)* **ICRERA 2025**, Vienna, Austria, pp. 258-263
+
 1. **Empowering Engineers with Communication Skills for Green Technology Projects** ([IEEE Xplore](https://doi.org/10.1109/CISPEE64787.2025.11123940))
    J. Baptista, M. Loureiro, P. Pinto, A. Briga-Sá
    *2025 6th International Conference of the Portuguese Society for Engineering Education (CISPEE)*
