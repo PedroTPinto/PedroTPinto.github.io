@@ -30,19 +30,23 @@ Work in Progress
 Work in Progress
 
 ### Publications
-<ol style="margin-left: 0; padding-left: 20px; list-style-position: outside;">
-  <li style="margin-bottom: 25px;">
-    <strong>Optimizing Offshore AC and DC Power Systems for Floating Marine Exploration Platforms</strong> (<a href="https://doi.org/10.1109/ICRERA66237.2025.11284007">IEEE Xplore</a>)
-    <div style="margin-top: 5px; color: #333;">J. Baptista, A. Cerveira, I. Ferreira, B. Grasel, P. Pinto</div>
-    <div style="margin-top: 3px; color: #555;"><em>14th International Conference on Renewable Energy Research and Applications (ICRERA)</em> <strong>ICRERA 2025</strong>, Vienna, Austria, pp. 258-263</div>
-  </li>
+<div style="display: flex; margin-bottom: 22px; line-height: 1.5;">
+  <div style="width: 25px; min-width: 25px; font-weight: normal; color: #333;">2.</div>
+  <div>
+    <strong>Optimizing Offshore AC and DC Power Systems for Floating Marine Exploration Platforms</strong> (<a href="https://doi.org/10.1109/ICRERA66237.2025.11284007" target="_blank">IEEE Xplore</a>)
+    <div style="margin-top: 4px; color: #333;">J. Baptista, A. Cerveira, I. Ferreira, B. Grasel, P. Pinto</div>
+    <div style="margin-top: 2px; color: #555;"><em>14th International Conference on Renewable Energy Research and Applications (ICRERA)</em> <strong>ICRERA 2025</strong>, Vienna, Austria, pp. 258-263</div>
+  </div>
+</div>
 
-  <li style="margin-bottom: 25px;">
-    <strong>Empowering Engineers with Communication Skills for Green Technology Projects</strong> (<a href="https://doi.org/10.1109/CISPEE64787.2025.11123940">IEEE Xplore</a>)
-    <div style="margin-top: 5px; color: #333;">J. Baptista, M. Loureiro, P. Pinto, A. Briga-Sá</div>
-    <div style="margin-top: 3px; color: #555;"><em>2025 6th International Conference of the Portuguese Society for Engineering Education (CISPEE)</em> <strong>CISPEE 2025</strong>, Setúbal, Portugal, pp. 1-6</div>
-  </li>
-</ol>
+<div style="display: flex; margin-bottom: 22px; line-height: 1.5;">
+  <div style="width: 25px; min-width: 25px; font-weight: normal; color: #333;">1.</div>
+  <div>
+    <strong>Empowering Engineers with Communication Skills for Green Technology Projects</strong> (<a href="https://doi.org/10.1109/CISPEE64787.2025.11123940" target="_blank">IEEE Xplore</a>)
+    <div style="margin-top: 4px; color: #333;">J. Baptista, M. Loureiro, P. Pinto, A. Briga-Sá</div>
+    <div style="margin-top: 2px; color: #555;"><em>2025 6th International Conference of the Portuguese Society for Engineering Education (CISPEE)</em> <strong>CISPEE 2025</strong>, Setúbal, Portugal, pp. 1-6</div>
+  </div>
+</div>
 ---
 
 ### Contacto
