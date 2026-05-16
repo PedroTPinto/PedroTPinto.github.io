@@ -62,12 +62,6 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Engenheiro Electrotécnico"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
@@ -76,9 +70,6 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
@@ -87,16 +78,16 @@ footer:
 
 defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+  #- scope:
+   #   path: ""
+    #  type: posts
+    #values:
+     # layout: single
+      #author_profile: true
+      #read_time: true
+      #comments: true
+      #share: true
+      #related: true
   # _pages
   - scope:
       path: "_pages"
@@ -105,9 +96,9 @@ defaults:
       layout: single
       author_profile: true
 
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+#category_archive:
+  #type: liquid
+  #path: /categories/
+#tag_archive:
+  #type: liquid
+  #path: /tags/
