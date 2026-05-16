@@ -21,7 +21,10 @@ author_profile: true
 </style>
 
 ### Sobre Mim
-Work in Progress
+
+Estudante finalista de Mestrado em Engenharia Electrotécnica (Energias e Automação) com experiência em investigação aplicada à transição energética. 
+
+Participei em projetos internacionais com universidades da Finlândia e Áustria, e em parcerias com empresas como a SBM Offshore. Combino competências em Instalações Elétricas, programação, IA e sistemas elétricos para resolver problemas de engenharia com componente técnica e analítica.
 
 ### Competências
 
