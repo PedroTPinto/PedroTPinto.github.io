@@ -23,7 +23,7 @@ plugins:
 # Sidebar Profile
 author:
   name   : "Pedro Pinto"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/1710070097629.jpeg"
   bio    : "Engenheiro Electrotécnico"
   links:
     - label: "GitHub"
