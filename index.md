@@ -53,9 +53,9 @@ Work in Progress
 ---
 
 
-### PDFs
+### Projetos
 
-- 📄 [CV (PDF)](/assets/pdfs/cv.pdf)
+- [Loteamento](/assets/Memoria_descritiva_Loteamento.pdf)
 
 - 
 
