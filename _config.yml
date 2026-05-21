@@ -42,6 +42,9 @@ footer:
     #- label: "GitHub"
       #icon: "fab fa-fw fa-github"
       #url: "https://github.com/your_username"
+    - label: "Curriculum Vitae"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/assets/cv.pdf"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin" # This adds the LinkedIn icon
       url: "https://www.linkedin.com/in/pedrotpinto" # Put your link here
