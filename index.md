@@ -52,5 +52,12 @@ Work in Progress
 </div>
 ---
 
+
+### PDFs
+
+- 📄 [CV (PDF)](/assets/pdfs/cv.pdf)
+
+- 
+
 ### Contacto
 Se quiser entrar em contacto comigo, podes enviar um e-mail ou seguir o meu trabalho através dos links na barra lateral.
